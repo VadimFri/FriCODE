@@ -1,2 +1,0 @@
-# FriCODE
-Progect
